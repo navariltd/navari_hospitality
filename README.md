@@ -2,9 +2,9 @@
 
 ### Includes:
 
-• Hotel Issue Summary
+• Hotel Issue Summary Custom Report
 
-• Hotel Issue Analytics
+• Hotel Issue Analytics Custom Report
 
 • Extensions on Taxes and Totals .py and .js
 
