@@ -1,4 +1,4 @@
-## Navari ERPNext Customizations for Hospitality Industry
+## Navari ERPNext Extensions for Hospitality Industry
 
 ### Includes:
 
