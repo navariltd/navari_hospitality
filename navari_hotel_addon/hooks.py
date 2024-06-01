@@ -2,13 +2,14 @@ from . import __version__ as app_version
 from navari_hotel_addon.controllers.taxes_and_totals import calculate_item_values_override
 
 app_name = "navari_hotel_addon"
-app_title = "Navari Hotel Addon"
+app_title = "Navari Customizations for Hospitality"
 app_publisher = "Navari Limited"
-app_description = "Specific Funtionality for Hospitality"
+app_description = "Navari Customizations for Hospitality"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "info@navari.co.ke"
 app_license = "GNU General Public License (v3)"
+required_apps = ["frappe/erpnext"]
 
 
 fixtures = [
